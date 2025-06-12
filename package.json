@@ -1,10 +1,10 @@
 {
-  "name": "znzn-v2-mbwp-v2-i1",
+  "name": "auvb-knty-2019-i01",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
-    "icon": "src/images/Zene N Zeanne V4 Logo Small.png",
-    "productName": "New Year, New Bora!",
+    "icon": "src/images/KainTayoLogoSmall.png",
+    "productName": "Tori Chizu (Katipunan Branch)",
     "files": [
       "public/**/*",
       "main.js"
@@ -42,12 +42,12 @@
       "mergeASARs": false
     },
     "dmg": {
-      "background": "src/images/Zene N Zeanne Background.png"
+      "background": "src/images/WhitePaperBackground.png"
     }
   },
   "private": true,
-  "description": "Zeanne helps out in a beach clean-up while her twin brother Zene scuba-dived to help replant corals.",
-  "version": "2.2.1.0",
+  "description": "",
+  "version": "2019.01",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",

@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.i1.v2.mbwp.v2.znzn',
-  appName: "New Year, New Bora!",
+  appId: 'com.i01.2019.knty.auvb',
+  appName: "Tori Chizu (Katipunan Branch)",
   webDir: 'public',
   bundledWebRuntime: false
 };
