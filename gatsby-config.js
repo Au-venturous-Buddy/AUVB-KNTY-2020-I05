@@ -30,8 +30,8 @@ module.exports = {
         name: `Tori Chizu (Katipunan Branch)`,
         short_name: `AUVB-KNTY-2019-I01`,
         start_url: `/`,
-        background_color: `#017BFF`,
-        theme_color: `#017BFF`,
+        background_color: `#21D927`,
+        theme_color: `#21D927`,
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
         display: `standalone`,

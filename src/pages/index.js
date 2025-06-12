@@ -145,7 +145,7 @@ function generatePages(images, captions, callAt, currentBionicReadingFixation, v
           const anchorEndTagRegex = /<\/a>/gi
           currentTextHTML = currentTextHTML.replace(anchorStartTagRegex, "")
           currentTextHTML = currentTextHTML.replace(anchorEndTagRegex, "")
-          currentTextHTML = textVide(currentTextHTML, { sep: ['<span style="color: #A35BFF">', '</span>'], fixationPoint: (![2, 3].includes(currentBionicReadingFixation)) ? currentBionicReadingFixation : 1 });
+          currentTextHTML = textVide(currentTextHTML, { sep: ['<span style="color: #0094FE">', '</span>'], fixationPoint: (![2, 3].includes(currentBionicReadingFixation)) ? currentBionicReadingFixation : 1 });
         }
       }
       nextDialogueID++;
@@ -179,43 +179,43 @@ function SettingsWindow(props) {
     <SettingsButton fontButtonSize={ResponsiveSize(0.8, "rem", 0.001, 500)} handleShow={handleShow} />
     <Modal show={show} onHide={handleClose} fullscreen={true} scrollable={true}>
         <Modal.Header className="justify-content-center">
-          <Modal.Title style={{color: "#017BFF"}}>
+          <Modal.Title style={{color: "#21D927"}}>
             <ResponsiveHeader level={1} maxSize={2} minScreenSize={500}>Settings</ResponsiveHeader>
           </Modal.Title>
         </Modal.Header>
         <Modal.Body>
           <section className="mb-3">
-            <div className='align-items-center' style={{textAlign: 'center', color: "#017BFF"}}>
+            <div className='align-items-center' style={{textAlign: 'center', color: "#21D927"}}>
               <ResponsiveHeader level={2} maxSize={1.5} minScreenSize={500}>
                 Language and Dialogue
               </ResponsiveHeader>
             </div>
-            <Form.Select style={{color: "#017BFF"}} className="hover-shadow" id="language-selector" onChange={props.changeLanguage} value={props.state.currentLanguage}>
+            <Form.Select style={{color: "#21D927"}} className="hover-shadow" id="language-selector" onChange={props.changeLanguage} value={props.state.currentLanguage}>
               {props.languageOptions}
             </Form.Select>
           </section>
           <section className="mb-3">
-              <div className='align-items-center' style={{textAlign: 'center', color: "#017BFF"}}>
+              <div className='align-items-center' style={{textAlign: 'center', color: "#21D927"}}>
                 <ResponsiveHeader level={2} maxSize={1.5} minScreenSize={500}>
                   Mode
                 </ResponsiveHeader>
               </div>
-            <Form.Select style={{color: "#017BFF"}} className="hover-shadow" id="mode-selector" onChange={props.changeMode} value={props.state.currentMode}>
+            <Form.Select style={{color: "#21D927"}} className="hover-shadow" id="mode-selector" onChange={props.changeMode} value={props.state.currentMode}>
               {props.modeOptions}
             </Form.Select>
           </section>
           <section className="mb-3">
-              <div className='align-items-center' style={{textAlign: 'center', color: "#017BFF"}}>
+              <div className='align-items-center' style={{textAlign: 'center', color: "#21D927"}}>
                 <ResponsiveHeader level={2} maxSize={1.5} minScreenSize={500}>
                   Table Background
                 </ResponsiveHeader>
               </div>
-            <Form.Select style={{color: "#017BFF"}} className="hover-shadow" id="table-background-selector" onChange={props.changeTableBackground} value={props.state.currentTableBackground}>
+            <Form.Select style={{color: "#21D927"}} className="hover-shadow" id="table-background-selector" onChange={props.changeTableBackground} value={props.state.currentTableBackground}>
               {['Zene', 'Zeanne', 'Classroom Table'].map((value) => (<option key={value}>{value}</option>))}
             </Form.Select>
           </section>
           <section className="mb-3">
-            <div className='align-items-center pb-3' style={{textAlign: 'center', color: "#017BFF"}}>
+            <div className='align-items-center pb-3' style={{textAlign: 'center', color: "#21D927"}}>
               <ResponsiveHeader level={2} maxSize={1.5} minScreenSize={500}>{`Bionic Reading Level`}</ResponsiveHeader>
             </div>
             <RangeSlider className="hover-shadow mt-3" variant="dark" tooltipPlacement='top' tooltip='on' onChange={changeEvent => props.changeBionicReadingFixation(changeEvent.target.value)} min={0} max={5} value={props.state.currentBionicReadingFixationIndex} />
