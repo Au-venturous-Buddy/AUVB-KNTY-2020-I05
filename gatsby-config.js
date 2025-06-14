@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Tori Chizu (Katipunan Branch)",
+    title: "Tapsi ni Vivian",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2019-I01",
+  pathPrefix: "/AUVB-KNTY-2019-I02",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Tori Chizu (Katipunan Branch)`,
-        short_name: `AUVB-KNTY-2019-I01`,
+        name: `Tapsi ni Vivian`,
+        short_name: `AUVB-KNTY-2019-I02`,
         start_url: `/`,
         background_color: `#21D927`,
         theme_color: `#21D927`,
