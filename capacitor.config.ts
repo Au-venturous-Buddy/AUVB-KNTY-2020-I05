@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.i02.2019.knty.auvb',
-  appName: "Tapsi ni Vivian",
+  appId: 'com.i03.2019.knty.auvb',
+  appName: "Macao Imperial Tea (Anonas Branch)",
   webDir: 'public',
   bundledWebRuntime: false
 };

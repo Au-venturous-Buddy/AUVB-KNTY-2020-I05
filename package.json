@@ -1,10 +1,10 @@
 {
-  "name": "auvb-knty-2019-i02",
+  "name": "auvb-knty-2019-i03",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/KainTayoLogoSmall.png",
-    "productName": "Tapsi ni Vivian",
+    "productName": "Macao Imperial Tea (Anonas Branch)",
     "files": [
       "public/**/*",
       "main.js"

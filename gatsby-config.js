@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Tapsi ni Vivian",
+    title: "Macao Imperial Tea (Anonas Branch)",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2019-I02",
+  pathPrefix: "/AUVB-KNTY-2019-I03",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Tapsi ni Vivian`,
-        short_name: `AUVB-KNTY-2019-I02`,
+        name: `Macao Imperial Tea (Anonas Branch)`,
+        short_name: `AUVB-KNTY-2019-I03`,
         start_url: `/`,
         background_color: `#21D927`,
         theme_color: `#21D927`,
