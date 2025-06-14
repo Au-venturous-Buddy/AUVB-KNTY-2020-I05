@@ -1,10 +1,10 @@
 {
-  "name": "auvb-knty-2019-i03",
+  "name": "auvb-knty-2019-i04",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/KainTayoLogoSmall.png",
-    "productName": "Macao Imperial Tea (Anonas Branch)",
+    "productName": "Falafel Yo!",
     "files": [
       "public/**/*",
       "main.js"
@@ -47,7 +47,7 @@
   },
   "private": true,
   "description": "",
-  "version": "2019.02",
+  "version": "2019.04",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",

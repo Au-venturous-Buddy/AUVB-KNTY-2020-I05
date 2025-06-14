@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Macao Imperial Tea (Anonas Branch)",
+    title: "Falafel Yo!",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2019-I03",
+  pathPrefix: "/AUVB-KNTY-2019-I04",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Macao Imperial Tea (Anonas Branch)`,
-        short_name: `AUVB-KNTY-2019-I03`,
+        name: `Falafel Yo!`,
+        short_name: `AUVB-KNTY-2019-I04`,
         start_url: `/`,
         background_color: `#21D927`,
         theme_color: `#21D927`,
