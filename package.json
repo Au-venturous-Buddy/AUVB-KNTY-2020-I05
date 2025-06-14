@@ -1,10 +1,10 @@
 {
-  "name": "auvb-knty-2019-i04",
+  "name": "auvb-knty-2019-i05",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/KainTayoLogoSmall.png",
-    "productName": "Falafel Yo!",
+    "productName": "Yeah! Yeah!",
     "files": [
       "public/**/*",
       "main.js"
@@ -47,7 +47,7 @@
   },
   "private": true,
   "description": "",
-  "version": "2019.04",
+  "version": "2019.05",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",

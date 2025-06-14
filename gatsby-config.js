@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Falafel Yo!",
+    title: "Yeah! Yeah!",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2019-I04",
+  pathPrefix: "/AUVB-KNTY-2019-I05",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Falafel Yo!`,
-        short_name: `AUVB-KNTY-2019-I04`,
+        name: `Yeah! Yeah!`,
+        short_name: `AUVB-KNTY-2019-I05`,
         start_url: `/`,
         background_color: `#21D927`,
         theme_color: `#21D927`,

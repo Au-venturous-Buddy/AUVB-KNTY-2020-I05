@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.i04.2019.knty.auvb',
-  appName: "Falafel Yo!",
+  appId: 'com.i05.2019.knty.auvb',
+  appName: "Yeah! Yeah!",
   webDir: 'public',
   bundledWebRuntime: false
 };
