@@ -1,10 +1,10 @@
 {
-  "name": "auvb-knty-2019-i07",
+  "name": "auvb-knty-2019-i08",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/KainTayoLogoSmall.png",
-    "productName": "NANYANG (SM Aura Premier)",
+    "productName": "IL PADRINO (Robinsons Galleria)",
     "files": [
       "public/**/*",
       "main.js"
@@ -47,7 +47,7 @@
   },
   "private": true,
   "description": "",
-  "version": "2019.07",
+  "version": "2019.08",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",

@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "NANYANG (SM Aura Premier)",
+    title: "IL PADRINO (Robinsons Galleria)",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2019-I07",
+  pathPrefix: "/AUVB-KNTY-2019-I08",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `NANYANG (SM Aura Premier)`,
-        short_name: `AUVB-KNTY-2019-I07`,
+        name: `IL PADRINO (Robinsons Galleria)`,
+        short_name: `AUVB-KNTY-2019-I08`,
         start_url: `/`,
         background_color: `#21D927`,
         theme_color: `#21D927`,
