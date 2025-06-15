@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.i06.2019.knty.auvb',
-  appName: "M Bakery",
+  appId: 'com.i07.2019.knty.auvb',
+  appName: "NANYANG (SM Aura Premier)",
   webDir: 'public',
   bundledWebRuntime: false
 };

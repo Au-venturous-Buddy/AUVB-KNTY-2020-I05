@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "M Bakery",
+    title: "NANYANG (SM Aura Premier)",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2019-I06",
+  pathPrefix: "/AUVB-KNTY-2019-I07",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `M Bakery`,
-        short_name: `AUVB-KNTY-2019-I06`,
+        name: `NANYANG (SM Aura Premier)`,
+        short_name: `AUVB-KNTY-2019-I07`,
         start_url: `/`,
         background_color: `#21D927`,
         theme_color: `#21D927`,
