@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "IL PADRINO (Robinsons Galleria)",
+    title: "Haili's Hawaiian Foods",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2019-I08",
+  pathPrefix: "/AUVB-KNTY-2019-I09",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `IL PADRINO (Robinsons Galleria)`,
-        short_name: `AUVB-KNTY-2019-I08`,
+        name: `Haili's Hawaiian Foods`,
+        short_name: `AUVB-KNTY-2019-I09`,
         start_url: `/`,
         background_color: `#21D927`,
         theme_color: `#21D927`,

@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.i08.2019.knty.auvb',
-  appName: "IL PADRINO (Robinsons Galleria)",
+  appId: 'com.i09.2019.knty.auvb',
+  appName: "Haili's Hawaiian Foods",
   webDir: 'public',
   bundledWebRuntime: false
 };

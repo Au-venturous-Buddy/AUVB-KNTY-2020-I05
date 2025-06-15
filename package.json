@@ -1,10 +1,10 @@
 {
-  "name": "auvb-knty-2019-i08",
+  "name": "auvb-knty-2019-i09",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/KainTayoLogoSmall.png",
-    "productName": "IL PADRINO (Robinsons Galleria)",
+    "productName": "Haili's Hawaiian Foods",
     "files": [
       "public/**/*",
       "main.js"
@@ -47,7 +47,7 @@
   },
   "private": true,
   "description": "",
-  "version": "2019.08",
+  "version": "2019.09",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
