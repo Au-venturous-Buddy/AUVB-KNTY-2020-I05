@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.i09.2019.knty.auvb',
-  appName: "Haili's Hawaiian Foods",
+  appId: 'com.i10.2019.knty.auvb',
+  appName: "DEAN & DELUCA (Quezon City)",
   webDir: 'public',
   bundledWebRuntime: false
 };

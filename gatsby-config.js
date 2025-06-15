@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Haili's Hawaiian Foods",
+    title: "DEAN & DELUCA (Quezon City)",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2019-I09",
+  pathPrefix: "/AUVB-KNTY-2019-I10",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Haili's Hawaiian Foods`,
-        short_name: `AUVB-KNTY-2019-I09`,
+        name: `DEAN & DELUCA (Quezon City)`,
+        short_name: `AUVB-KNTY-2019-I10`,
         start_url: `/`,
         background_color: `#21D927`,
         theme_color: `#21D927`,
