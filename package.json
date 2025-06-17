@@ -1,10 +1,10 @@
 {
-  "name": "auvb-knty-2019-i10",
+  "name": "auvb-knty-2020-i01",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/KainTayoLogoSmall.png",
-    "productName": "DEAN & DELUCA (Quezon City)",
+    "productName": "Popeyes Louisiana Kitchen (Robinsons Galleria)",
     "files": [
       "public/**/*",
       "main.js"
@@ -47,7 +47,7 @@
   },
   "private": true,
   "description": "",
-  "version": "2019.10",
+  "version": "2020.1",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",

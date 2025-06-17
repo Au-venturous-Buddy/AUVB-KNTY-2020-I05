@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.i10.2019.knty.auvb',
-  appName: "DEAN & DELUCA (Quezon City)",
+  appId: 'com.i01.2020.knty.auvb',
+  appName: "Popeyes Louisiana Kitchen (Robinsons Galleria)",
   webDir: 'public',
   bundledWebRuntime: false
 };
