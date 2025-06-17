@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "elait! (SM City North Edsa)",
+    title: "Koomi (Robinsons Magnolia)",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2020-I102",
+  pathPrefix: "/AUVB-KNTY-2020-I03",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `elait! (SM City North Edsa)`,
-        short_name: `AUVB-KNTY-2020-I02`,
+        name: `Koomi (Robinsons Magnolia)`,
+        short_name: `AUVB-KNTY-2020-I03`,
         start_url: `/`,
         background_color: `#21D927`,
         theme_color: `#21D927`,

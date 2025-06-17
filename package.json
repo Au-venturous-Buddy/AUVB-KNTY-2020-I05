@@ -1,10 +1,10 @@
 {
-  "name": "auvb-knty-2020-i02",
+  "name": "auvb-knty-2020-i03",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/KainTayoLogoSmall.png",
-    "productName": "elait! (SM City North Edsa)",
+    "productName": "Koomi (Robinsons Magnolia)",
     "files": [
       "public/**/*",
       "main.js"
@@ -47,7 +47,7 @@
   },
   "private": true,
   "description": "",
-  "version": "2020.2",
+  "version": "2020.3",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",

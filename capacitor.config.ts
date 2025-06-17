@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.i02.2020.knty.auvb',
-  appName: "elait! (SM City North Edsa)",
+  appId: 'com.i03.2020.knty.auvb',
+  appName: "Koomi (Robinsons Magnolia)",
   webDir: 'public',
   bundledWebRuntime: false
 };

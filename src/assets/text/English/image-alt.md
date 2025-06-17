@@ -4,9 +4,10 @@ image_alt: [
     "",
     "",
     "",
-    "elait! is proudly a deaf-friendly rolled ice cream shop!",
-    "elait! is proudly a deaf-friendly rolled ice cream shop!",
-    "elait!'s Strawberry-Mango Cheesecake tastes sweet and creamy!",
-    "The Strawberry-Mango Cheesecake at elait! is so perfectly delicious!"
+    "",
+    "The Why Not, Coconut? has a very fine texture.",
+    "The Waterberry Wonder is sour yet refreshing!",
+    "Nuts About You is a nut-lover's delight!",
+    "The Stick-On-Me Purple Rice is so delicious, this is the only picture I have about this drink!"
 ]
 ---
