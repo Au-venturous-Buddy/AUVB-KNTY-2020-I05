@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Koomi (Robinsons Magnolia)",
+    title: "Hanako (Regis Center)",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2020-I03",
+  pathPrefix: "/AUVB-KNTY-2020-I04",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Koomi (Robinsons Magnolia)`,
-        short_name: `AUVB-KNTY-2020-I03`,
+        name: `Hanako (Regis Center)`,
+        short_name: `AUVB-KNTY-2020-I04`,
         start_url: `/`,
         background_color: `#21D927`,
         theme_color: `#21D927`,

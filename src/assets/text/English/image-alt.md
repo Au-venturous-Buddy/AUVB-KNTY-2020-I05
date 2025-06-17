@@ -4,10 +4,11 @@ image_alt: [
     "",
     "",
     "",
-    "",
-    "The Why Not, Coconut? has a very fine texture.",
-    "The Waterberry Wonder is sour yet refreshing!",
-    "Nuts About You is a nut-lover's delight!",
-    "The Stick-On-Me Purple Rice is so delicious, this is the only picture I have about this drink!"
+    "The table mats at Hanako are very entertaining!",
+    "Hanako's Miso Soup is warm and delicious!",
+    "The Gyoza at Hanako is packed with flavorful broth.",
+    "The Kosho Chicken looks so saucy!",
+    "The Katsudon of Hanako is more than just a typical Katsudon.",
+    "The Katsu Curry at Hanako might need a little more improvement..."
 ]
 ---

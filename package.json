@@ -1,10 +1,10 @@
 {
-  "name": "auvb-knty-2020-i03",
+  "name": "auvb-knty-2020-i04",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/KainTayoLogoSmall.png",
-    "productName": "Koomi (Robinsons Magnolia)",
+    "productName": "Hanako (Regis Center)",
     "files": [
       "public/**/*",
       "main.js"
@@ -47,7 +47,7 @@
   },
   "private": true,
   "description": "",
-  "version": "2020.3",
+  "version": "2020.4",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
