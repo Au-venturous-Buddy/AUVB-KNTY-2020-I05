@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Popeyes Louisiana Kitchen (Robinsons Galleria)",
+    title: "elait! (SM City North Edsa)",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2020-I101",
+  pathPrefix: "/AUVB-KNTY-2020-I102",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Popeyes Louisiana Kitchen (Robinsons Galleria)`,
-        short_name: `AUVB-KNTY-2020-I01`,
+        name: `elait! (SM City North Edsa)`,
+        short_name: `AUVB-KNTY-2020-I02`,
         start_url: `/`,
         background_color: `#21D927`,
         theme_color: `#21D927`,

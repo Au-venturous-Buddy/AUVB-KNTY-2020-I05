@@ -4,8 +4,9 @@ image_alt: [
     "",
     "",
     "",
-    "",
-    "The Popeyes Chicken Tenders is perhaps the best Chicken Tenders in town!",
-    "The Popeyes Chicken is very crispy and savory!"
+    "elait! is proudly a deaf-friendly rolled ice cream shop!",
+    "elait! is proudly a deaf-friendly rolled ice cream shop!",
+    "elait!'s Strawberry-Mango Cheesecake tastes sweet and creamy!",
+    "The Strawberry-Mango Cheesecake at elait! is so perfectly delicious!"
 ]
 ---

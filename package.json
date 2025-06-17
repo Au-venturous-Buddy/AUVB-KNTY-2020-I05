@@ -1,10 +1,10 @@
 {
-  "name": "auvb-knty-2020-i01",
+  "name": "auvb-knty-2020-i02",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/KainTayoLogoSmall.png",
-    "productName": "Popeyes Louisiana Kitchen (Robinsons Galleria)",
+    "productName": "elait! (SM City North Edsa)",
     "files": [
       "public/**/*",
       "main.js"
@@ -47,7 +47,7 @@
   },
   "private": true,
   "description": "",
-  "version": "2020.1",
+  "version": "2020.2",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
