@@ -1,14 +1,14 @@
 ---
-title: "Hanako (Regis Center)"
+title: "SHAKE SHACK (Central Square BGC)"
 show_title_on_cover: false
-date: "2020-02-13"
+date: "2020-02-14"
 version: 2
 volume: 2020
-issue: 4
+issue: 5
 category: "Wordpress Posts"
 synopsis: ""
 url: ""
 modes: [
-    {mode_name: "Original", call_at: [0, 1, 2, 3, 4, 5, 6, 7, 8]}
+    {mode_name: "Original", call_at: [0, 1, 2, 3, 4, 5, 6]}
 ]
 ---

@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Hanako (Regis Center)",
+    title: "SHAKE SHACK (Central Square BGC)",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2020-I04",
+  pathPrefix: "/AUVB-KNTY-2020-I05",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Hanako (Regis Center)`,
-        short_name: `AUVB-KNTY-2020-I04`,
+        name: `SHAKE SHACK (Central Square BGC)`,
+        short_name: `AUVB-KNTY-2020-I05`,
         start_url: `/`,
         background_color: `#21D927`,
         theme_color: `#21D927`,
